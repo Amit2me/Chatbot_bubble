@@ -1,4 +1,4 @@
-# `chat-bubble` 👋🤖🤙
+# `chat-bubble` 👋🤖🤙 Amit
 
 [![npm version](https://badge.fury.io/js/chat-bubble.svg)](https://badge.fury.io/js/chat-bubble)
 ![downloads](https://img.shields.io/npm/dt/chat-bubble.svg)
